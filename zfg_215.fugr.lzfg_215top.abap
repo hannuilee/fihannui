@@ -1,0 +1,3 @@
+FUNCTION-POOL ZFG_215                   . "MESSAGE-ID ...
+
+* INCLUDE LZFG_215D...                       " Local class definition
